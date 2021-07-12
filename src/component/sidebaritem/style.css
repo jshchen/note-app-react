@@ -1,0 +1,17 @@
+p.title {
+  font-size: 20px;
+  padding-left: 10px;
+  font-weight: 700;
+}
+p.paragraph {
+  display: inline;
+  font-size: 15px;
+  padding-left: 10px;
+  white-space: nowrap;
+}
+p.time{
+  display: inline;
+  font-size: 15px;
+  padding-left: 10px;
+  font-weight: 700;
+}

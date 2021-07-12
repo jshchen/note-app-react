@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f8f8;
+  min-width: 400px;
+  max-width: 600px;
+  height: 100%;
+  max-height: 100%;
+  border-right: 0.5px solid rgb(194, 194, 194);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.flex-container > div {
+  background-color: #f8f8f8;
+  min-width: 400px;
+  max-width: 600px;
+  text-align: left;
+  line-height: 10px;
+  border-bottom: 0.5px solid rgb(194, 194, 194);
+  height: 79.5px;
+}
